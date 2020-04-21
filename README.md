@@ -1,2 +1,0 @@
-# casaautomotriz
-Proyecto Aplicaciones Web
